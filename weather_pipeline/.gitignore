@@ -1,0 +1,24 @@
+# Local gitignore file for weather_pipeline
+
+# Virtual environments
+venv/
+
+# Logs and runtime files
+*.log
+
+# Config file (API Key)
+
+# Data and DB
+data/
+db/
+
+# OS
+.DS_Store
+
+# Other
+test/
+docs/PySpark_config_notes.txt
+docs/weather_pipeline_plan.txt
+
+__pycache__/
+
